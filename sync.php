@@ -9,8 +9,8 @@
  * GitHub Plugin URI: https://github.com/discourse/wp-discourse
  */
 defined('ABSPATH') or exit;
-define('SYNCED_WC_MEMBERSHIP_PLAN_ID', 30);
-define('SYNCED_WC_GROUP_NAME', 'locker');
+define('SYNCED_WC_MEMBERSHIP_PLAN_ID', 7133);
+define('SYNCED_WC_GROUP_NAME', 'members');
 
 const ACTIVE_STATUSES = array('active');
 
