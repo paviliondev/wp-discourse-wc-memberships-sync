@@ -4,9 +4,9 @@
  * Description: Use Discourse as a community engine for your WordPress blog
  * Version: 1.0.0
  * Author: fzngagan@gmail.com
- * Author URI: https://github.com/discourse/wp-discourse
- * Plugin URI: https://github.com/discourse/wp-discourse
- * GitHub Plugin URI: https://github.com/discourse/wp-discourse
+ * Author URI: https://github.com/fzngagan
+ * Plugin URI: https://github.com/paviliondev/wp-discourse-wc-memberships-sync
+ * GitHub Plugin URI: https://github.com/paviliondev/wp-discourse-wc-memberships-sync
  */
 defined('ABSPATH') or exit;
 define('SYNCED_WC_MEMBERSHIP_PLAN_ID', 7133);
